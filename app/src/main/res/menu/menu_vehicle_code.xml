@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/PBusSelection"
+        android:orderInCategory="99"
+        android:title="@string/Bus"/>
+
+
+    <item
+        android:id="@+id/MotorSelection"
+        android:orderInCategory="101"
+        android:title="@string/Smotorbike" />
+    <item
+        android:id="@+id/Motor1Selection"
+        android:orderInCategory="102"
+        android:title="@string/Mmotorbike" />
+    <item
+        android:id="@+id/Motor2Selection"
+        android:orderInCategory="103"
+        android:title="@string/Lmotorbike" />
+    <item
+        android:id="@+id/MiniCSelection"
+        android:orderInCategory="104"
+        android:title="@string/minicar" />
+    <item
+        android:id="@+id/SuperMiniCSelection"
+        android:orderInCategory="105"
+        android:title="@string/superminicar" />
+    <item
+        android:id="@+id/AverageCSelection"
+        android:orderInCategory="106"
+        android:title="@string/average_car" />
+    <item
+        android:id="@+id/MPVSelection"
+        android:orderInCategory="107"
+        android:title="@string/mpv" />
+    <item
+        android:id="@+id/LuxurySelection"
+        android:orderInCategory="108"
+        android:title="@string/lcar" />
+    <item
+        android:id="@+id/SporsCar"
+        android:orderInCategory="109"
+        android:title="@string/sportscar" />
+
+
+
+</menu>

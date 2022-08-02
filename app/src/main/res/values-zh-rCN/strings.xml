@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">碳排放 App</string>
+    <string name ="filter">"按车辆代码过滤"</string>
+    <string name="distance">距离:</string>
+    <string name="fuel">汽油:</string>
+    <string name="CO2E">CO2e</string>
+    <string name="vehicle">车辆:</string>
+    <string name ="vehicle_code">车辆代码请长按 更多</string>
+    <string name="more">更多</string>
+    <string name="reset">重置</string>
+    <string name="calculate">计算</string>
+    <string name ="history">历史</string>
+    <string name ="search">搜索</string>
+    <string name ="update">更新</string>
+    <string name ="editrecord">编辑记录</string>
+    <string name ="delete">删除</string>
+    <string name ="fuel_type">选择汽油类型</string>
+    <string name="diesel">柴油</string>
+    <string name="petrol">汽油</string>
+    <string name="electric">电动</string>
+    <string name="passenger">乘客数量:</string>
+    <string name="code">代码:</string>
+    <string name="Smotorbike">SMB=小型摩托车 >200cc </string>"
+    <string name="Mmotorbike">MMB=中型摩托车 201cc-400cc</string>"
+    <string name="Lmotorbike">LMB=大型摩托车 401cc above</string>"
+    <string name="Bus">BS=巴士</string>"
+    <string name="minicar">MC=微型车</string>"
+    <string name="superminicar">SMC=超微型车</string>"
+    <string name="average_car">AC=普通车</string>"
+    <string name="mpv">MPV=多用途车(大型)</string>"
+    <string name="lcar">LC=豪华车</string>"
+    <string name="sportscar">SC=跑车</string>"
+    <string name ="contact">联络我们</string>
+    <string name ="website">访问我们的网站</string>
+    <string name ="language">换语言</string>
+    <string name ="output"> 产生的 CO2e 量 </string>
+    <string name ="IS"> 是</string>
+    <string name ="EB"> 电动巴士</string>
+    <string name ="EMB"> 电动摩托车</string>
+    <string name ="ESMC"> 电动超级迷你车</string>
+    <string name ="EMC"> 电动迷你车</string>
+    <string name ="EAC"> 普通电动车</string>
+    <string name ="EMPV"> 多功能电动车</string>
+    <string name ="ELC"> 电动豪车</string>
+    <string name ="ESC"> 电动超跑</string>
+    <string name ="PB"> 汽油巴士</string>
+    <string name ="PSMB"> 汽油小型摩托</string>
+    <string name ="PMMB"> 汽油中型摩托</string>
+    <string name ="PLMB"> 汽油大型摩托</string>
+    <string name ="PSMC"> 汽油超级迷你车</string>
+    <string name ="PMC"> 汽油迷你车</string>
+    <string name ="PAC"> 汽油普通车</string>
+    <string name ="PMPV"> 汽油多功能车</string>
+    <string name ="PLC"> 汽油豪车</string>
+    <string name ="PSC"> 汽油超跑 </string>
+    <string name ="DBS"> 柴油巴士 </string>
+    <string name ="DSMC"> 柴油超级迷你车 </string>
+    <string name ="DMC"> 柴油迷你车 </string>
+    <string name ="DAC"> 柴油普通车 </string>
+    <string name ="DMPV"> 柴油多功能车 </string>
+    <string name ="DLC"> 柴油豪车 </string>
+    <string name ="DSC"> 柴油超跑 </string>
+    <string name ="tvno"> ID</string>
+    <string name ="tvdate">日期</string>
+    <string name ="tvvehicle">车辆 </string>
+    <string name ="tvfuel"> 汽油类</string>
+    <string name ="tvdistance"> 距离</string>
+    <string name ="tvco2e"> CO2/公里 </string>
+    <string name ="etdelete">输入 ID</string>
+    <string name ="back" > 返回主屏幕</string>
+    <string name ="ID"> 输入 ID:</string>
+
+
+
+
+
+
+</resources>

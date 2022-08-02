@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">"Carbon Emission "</string>
+    <string name ="filter">"Filter by vehicle code"</string>
+    <string name="distance">Distance:</string>
+    <string name="fuel">Fuel:</string>
+    <string name="CO2E">CO2e</string>
+    <string name="vehicle">Vehicle code:</string>
+    <string name="more">MORE</string>
+    <string name ="vehicle_code">For vehicle code long click MORE</string>
+    <string name="reset">RESET</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="history">HISTORY</string>
+    <string name="search">SEARCH</string>
+    <string name ="update">UPDATE</string>
+    <string name ="editrecord">EDIT RECORDS</string>
+    <string name="delete">DELETE</string>
+    <string name ="fuel_type">Choose fuel type</string>
+    <string name="diesel">Diesel</string>
+    <string name="petrol">Petrol</string>
+    <string name="electric">Electric</string>
+    <string name="passenger">No of passenger:</string>
+    <string name="code">Code:</string>
+    <string name="Smotorbike">SMB= Small Motorbike below 200cc</string>"
+    <string name="Mmotorbike">MMB=Medium Motorbike 201cc-400cc</string>"
+    <string name="Lmotorbike">LMB=Large Motorbike 401cc above</string>"
+    <string name="Bus">BUS=BS</string>"
+    <string name="minicar">MC=Mini Car</string>"
+    <string name="superminicar">SMC=Super Mini Car</string>"
+    <string name="average_car">AC=Average Car</string>"
+    <string name="mpv">MPV=Multi purpose Car(Large cars)</string>"
+    <string name="lcar">LC=Luxury car</string>"
+    <string name="sportscar">SC=Sports Car</string>"
+    <string name ="contact">Contact Us</string>
+    <string name ="website">Visit our website</string>
+    <string name ="language">Change language</string>
+    <string name ="output"> The amount of CO2e produced by </string>
+    <string name ="IS"> is</string>
+    <string name ="EB">Electric Bus</string>
+    <string name ="EMB"> MotorBike</string>
+    <string name ="ESMC"> Super Mini Car</string>
+    <string name ="EMC"> Mini Car</string>
+    <string name ="EAC"> Average Car</string>
+    <string name ="EMPV"> Multi Purpose Car</string>
+    <string name ="ELC"> Luxury Car</string>
+    <string name ="ESC"> Sports Car</string>
+    <string name ="PB"> Petrol Bus</string>
+    <string name ="PSMB"> Small Motorbike</string>
+    <string name ="PMMB"> Medium Motorbike</string>
+    <string name ="PLMB"> Large Motorbike</string>
+    <string name ="PSMC"> Super-Mini Car</string>
+    <string name ="PMC"> Mini Car</string>
+    <string name ="PAC"> Average Car</string>
+    <string name ="PMPV"> Multi-Purpose Car</string>
+    <string name ="PLC"> Luxury Car</string>
+    <string name ="PSC"> Sports Car </string>
+    <string name ="DBS"> Diesel Bus </string>
+    <string name ="DSMC"> SuperMini Car </string>
+    <string name ="DMC"> Mini Car </string>
+    <string name ="DAC"> Average CAR </string>
+    <string name ="DMPV"> Multi-Purpose Car </string>
+    <string name ="DLC"> Luxury Car </string>
+    <string name ="DSC"> Sports Car </string>
+    <string name ="tvno"> ID</string>
+    <string name ="tvdate">Date</string>
+    <string name ="tvvehicle">Vehicle </string>
+    <string name ="tvfuel">Fuel</string>
+    <string name ="tvdistance"> Distance</string>
+    <string name ="tvco2e"> CO2/KM </string>
+    <string name ="etdelete">Enter ID</string>
+    <string name ="back" > Return to main screen</string>
+    <string name ="ID"> Enter ID:</string>
+
+
+
+
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Pelepasan Karbon</string>
+    <string name ="filter">"Tapis mengikut kod kenderaan"</string>
+    <string name="distance">Jarak:</string>
+    <string name="fuel">Bahan api:</string>
+    <string name="CO2E">CO2e</string>
+    <string name="vehicle">Kenderaan:</string>
+    <string name="more">LEBIH</string>
+    <string name ="vehicle_code">Untuk kod kenderaan klik lama lagi</string>
+    <string name="reset">SET SEMULA</string>
+    <string name="calculate">KIRA</string>
+    <string name="history">SEJARAH</string>
+    <string name="search">CARI</string>
+    <string name ="update">KEMAS KINI</string>
+    <string name ="editrecord">EDIT REKOD</string>
+    <string name="delete">PADAM</string>
+    <string name ="fuel_type">Pilih jenis bahan api</string>
+    <string name="diesel">Diesel</string>
+    <string name="petrol">Petrol</string>
+    <string name="electric">Elektrik</string>
+    <string name="passenger">No. Penumpang:</string>
+    <string name="code">Kod:</string>
+    <string name="Smotorbike">SMB= Motosikal Kecil bawah 200cc</string>"
+    <string name="Mmotorbike">MMB=Medium Motorbike 201cc-400cc</string>"
+    <string name="Lmotorbike">LMB=Motosikal Besar 401cc ke atas</string>"
+    <string name="Bus">BS=BAS</string>"
+    <string name="minicar">MC=Mini Car</string>"
+    <string name="superminicar">SMC=Super Mini Car</string>"
+    <string name="average_car">AC=Purata Kereta</string>"
+    <string name="mpv">MPV=Kereta Pelbagai guna(Kereta besar)</string>"
+    <string name="lcar">LC=Kereta mewah</string>"
+    <string name="sportscar">SC=Sports Car</string>"
+    <string name ="contact">Hubungi Kami</string>
+    <string name ="website">layari laman web kami</string>
+    <string name ="language">Tukar bahasa</string>
+    <string name ="output">Jumlah CO2e yang dihasilkan oleh </string>
+    <string name ="IS"> is</string>
+    <string name ="EB"> Bas Elektrik</string>
+    <string name ="EMB">=Motosikal Elektrik </string>
+    <string name ="ESMC"> Kereta Mini Super Elektrik</string>
+    <string name ="EMC">Kereta Mini Elektrik</string>
+    <string name ="EAC"> Kereta Biasa Elektrik</string>
+    <string name ="EMPV"> Kereta Pelbagai Gunael Elektrik</string>
+    <string name ="ELC"> Kereta Mewah Elektrik</string>
+    <string name ="ESC"> Kereta Sport Elektrik</string>
+    <string name ="PB"> Bas Petrol</string>
+    <string name ="PSMB">Motosikal Kecil Petrol</string>
+    <string name ="PMMB"> Motosikal Sederhana Petrol</string>
+    <string name ="PLMB"> Motosikal Besar Petrol</string>
+    <string name ="PSMC"> Kereta Mini Super Petrol</string>
+    <string name ="PMC"> Kereta Mini Petrol </string>
+    <string name ="PAC"> Kereta Biasa Petrol </string>
+    <string name ="PMPV"> Kereta Pelbagai Guna Petrol</string>
+    <string name ="PLC"> Kereta Mewah Petrol</string>
+    <string name ="PSC"> Kereta Sport Petrol </string>
+    <string name ="DBS"> Bas Diesel </string>
+    <string name ="DSMC">Kereta Mini Diesel Super </string>
+    <string name ="DMC"> Kereta Mini Diesel  </string>
+    <string name ="DAC"> Kereta Purata Diesel </string>
+    <string name ="DMPV">Kereta Pelbagai Guna Diesel </string>
+    <string name ="DLC"> Kereta Mewah Diesel </string>
+    <string name ="DSC"> Kereta Sukan Diesel </string>
+    <string name ="tvno"> ID</string>
+    <string name ="tvdate">Tarikh</string>
+    <string name ="tvvehicle">Kenderaan</string>
+    <string name ="tvfuel"> Bahan api</string>
+    <string name ="tvdistance">Jarak</string>
+    <string name ="tvco2e"> CO2/KM </string>
+    <string name ="etdelete">Masukkan id</string>
+    <string name ="back" > Kembali ke skrin utama</string>
+    <string name ="ID"> Masukkan ID：</string>
+
+
+
+
+
+
+
+</resources>

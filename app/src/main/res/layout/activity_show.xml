@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textViewFilter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:text="@string/filter"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerFilter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.8"/>
+</LinearLayout>
+
+    <EditText
+        android:id="@+id/etDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/etdelete" />
+
+
+    <Button
+        android:id="@+id/ButtonDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/delete" />
+
+
+    <Button
+        android:id="@+id/ButtonBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/back" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/No"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:textColor="#EB00FB"
+            android:textSize="16sp"
+            android:text="@string/tvno"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/Date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="@string/tvdate"
+            android:textColor="#EB00FB"
+            android:textAlignment="gravity"
+            android:layout_weight="1.8" />
+
+        <TextView
+            android:id="@+id/Vehicle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#EB00FB"
+            android:text="@string/tvvehicle"
+            android:textAlignment="gravity"
+            android:layout_weight="1.2" />
+
+        <TextView
+            android:id="@+id/Fuel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#EB00FB"
+            android:layout_weight="1.5"
+            android:text="@string/tvfuel" />
+
+        <TextView
+            android:id="@+id/Distance"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#EB00FB"
+            android:text="@string/tvdistance"
+            android:textAlignment="gravity"
+            android:layout_weight="2" />
+        <TextView
+            android:id="@+id/CO2e"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#EB00FB"
+            android:text="@string/tvco2e"
+            android:textAlignment="gravity"
+            android:layout_weight="1.5" />
+    </LinearLayout>
+
+        <ListView
+            android:id="@+id/ListViewHistory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+</LinearLayout>
